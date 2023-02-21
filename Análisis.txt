@@ -1,0 +1,6 @@
+Análisis
+
+La empresa de seguros TK-U tiene el problema de que realizan muchas cotizaciones de sus seguros de forma manual diariamente y lo que se busca es automatizar este
+trabajo y poder invertir ese tiempo en otros precesos, por lo cual se realizará un algoritmo de los datos que se le solicitan a lo clientes al realizar dicha cotización
+y se dará intrucciones al programa sobre los sobrecargos a cobrar, dependiedo de la situación socioeconómica de cada cliente.
+
