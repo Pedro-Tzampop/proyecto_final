@@ -1,0 +1,17 @@
+Algoritmo
+
+1. pregutar edad al cliente
+2. si es menor de edad, indicar que no se puede asegurar
+2. si es mayor de edad, realizar lo siguiente: si su rango de edad es entre 18 y 24 años, multiplicar por el 10% del precio base y sumar al recargo final;
+   si su rango de edad es entre 25 y 49 años, multiplicar por el 20% del precio base y sumar al recargo final; si tiene 50 o más multiplicar por el 30% del precio base y 
+   sumar al recargo final
+3. preguntar si es casdo/a
+4. si la respuesta es no, pasar al punto 7
+5. si la respuesta es sí, preguntar edad del cónyuge
+6. si su rango de edad es entre 18 y 24 años, multiplicar por el 10% del precio base y sumar al recargo final;si su rango de edad es entre 25 y 49 años, multiplicar por 
+   el 20% del precio base y sumar al recargo final; si tiene 50 o más multiplicar por el 30% del precio base y sumar al recargo final
+7. preguntar si tiene hijos
+8. si la respuesta es no, pasar al punto 11
+9. si la respuesta es sí, preguntar cuántos
+10. multiplicar la cantidad de hijos por el 20% del precio base y sumar al recargo final
+11. sumar el precio base más el recargo final e indicar al cliente que ése seria el precio a pagar de su seguro, según su cotización
